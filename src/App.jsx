@@ -6,7 +6,7 @@ import Loader from "./components/Loader";
 import ErrorMessage from "./components/ErrorMessage";
 import UserTable from "./components/UserTable";
 import SearchBar from "./components/SearchBar";
-import SortDropdown from "./components/SortDropdown";
+import SortDropDown from "./components/SortDropDown";
 import Pagination from "./components/Pagination";
 import FilterModal from "./components/FilterModal";
 
