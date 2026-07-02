@@ -18,4 +18,4 @@ function SortDropDown({ sortOrder, setSortOrder }) {
   );
 }
 
-export default SortDropdown;
+export default SortDropDown;
