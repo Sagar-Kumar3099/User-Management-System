@@ -1,4 +1,4 @@
-function SortDropdown({ sortOrder, setSortOrder }) {
+function SortDropDown({ sortOrder, setSortOrder }) {
   return (
     <select
       value={sortOrder}
