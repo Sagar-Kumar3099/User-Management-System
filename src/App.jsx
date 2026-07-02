@@ -178,7 +178,7 @@ function App() {
 
             <SearchBar search={search} setSearch={setSearch} />
 
-            <SortDropdown sortOrder={sortOrder} setSortOrder={setSortOrder} />
+            <SortDropDown sortOrder={sortOrder} setSortOrder={setSortOrder} />
 
             <button className="filter-btn" onClick={() => setShowFilter(true)}>
               🔍 Filters
